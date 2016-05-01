@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: This is some text
-datePublished: '2016-05-01T16:40:20.876Z'
-dateModified: '2016-05-01T16:40:19.326Z'
+description: Incoming Metal
+datePublished: '2016-05-01T16:48:27.767Z'
+dateModified: '2016-05-01T16:40:35.553Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-01-this-is-some-text.md
@@ -22,4 +22,4 @@ url: this-is-some-text/index.html
 _type: Article
 
 ---
-This is some text
+Incoming Metal
